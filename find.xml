@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\cloud\genomeone\domain\src\main\java\com\dreamgenics\genomeone\domain\projectmanagement\io\analysis\AddAnalysisInput.java [domain]'" />
+    <option name="defaultScopeName" value="File '...\cloud\genomeone\domain\src\main\java\com\dreamgenics\genomeone\domain\projectmanagement\io\analysis\AddAnalysisInput.java [domain]'" />
+    <option name="SEARCH_SCOPE" value="File '...\cloud\genomeone\domain\src\main\java\com\dreamgenics\genomeone\domain\projectmanagement\io\analysis\AddAnalysisInput.java [domain]'" />
   </component>
 </application>
