@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\cloud\genomeone\microservices\authorities'" />
-    <option name="defaultScopeName" value="Directory '...\cloud\genomeone\microservices\authorities'" />
+    <option name="customScope" value="File '...\cloud\genomeone\microservices\authorities\src\main\java\com\dreamgenics\cloud\genomeone\microservices\authorities\cfg\HateoasConfig.java'" />
+    <option name="defaultScopeName" value="File '...\cloud\genomeone\microservices\authorities\src\main\java\com\dreamgenics\cloud\genomeone\microservices\authorities\cfg\HateoasConfig.java'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\cloud\genomeone\microservices\authorities'" />
+    <option name="SEARCH_SCOPE" value="File '...\cloud\genomeone\microservices\authorities\src\main\java\com\dreamgenics\cloud\genomeone\microservices\authorities\cfg\HateoasConfig.java'" />
   </component>
 </application>
