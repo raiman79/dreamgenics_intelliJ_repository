@@ -3,7 +3,7 @@
     <property name="created">2020-11-16T15:08:20</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2021-02-22T16:22:01</property>
+    <property name="modified">2021-02-22T16:39:57</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="c97138" />
@@ -32,22 +32,22 @@
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="bcbcbc" />
+        <option name="FOREGROUND" value="ff7979" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="989898" />
+        <option name="FOREGROUND" value="7d87ff" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="5a5a5a" />
+        <option name="FOREGROUND" value="fff97f" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="77ff99" />
       </value>
     </option>
     <option name="BAD_CHARACTER">
@@ -166,6 +166,7 @@
       <value>
         <option name="FOREGROUND" value="589df6" />
         <option name="EFFECT_COLOR" value="589df6" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
@@ -526,22 +527,22 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="bcbcbc" />
+        <option name="FOREGROUND" value="ff7979" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="989898" />
+        <option name="FOREGROUND" value="7d87ff" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="5a5a5a" />
+        <option name="FOREGROUND" value="fff97f" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="77ff99" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -592,22 +593,22 @@
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="bcbcbc" />
+        <option name="FOREGROUND" value="ff7979" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="989898" />
+        <option name="FOREGROUND" value="7d87ff" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="5a5a5a" />
+        <option name="FOREGROUND" value="fff97f" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="77ff99" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
@@ -617,22 +618,22 @@
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="bcbcbc" />
+        <option name="FOREGROUND" value="ff7979" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="989898" />
+        <option name="FOREGROUND" value="7d87ff" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="5a5a5a" />
+        <option name="FOREGROUND" value="fff97f" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="77ff99" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
