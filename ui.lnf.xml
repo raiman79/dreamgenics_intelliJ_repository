@@ -2,4 +2,8 @@
   <component name="DependencyUISettings">
     <option name="SCOPE_TYPE" value="file" />
   </component>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_PLACEMENT" value="4" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
+  </component>
 </application>
