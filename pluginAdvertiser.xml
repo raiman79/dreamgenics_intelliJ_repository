@@ -19,27 +19,27 @@
                   </entry>
                   <entry key="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" />
+                      <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" bundled="true" />
                     </value>
                   </entry>
                   <entry key="AndroidJUnit">
                     <value>
-                      <FeaturePluginData displayName="Android JUnit" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android JUnit" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="AndroidRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Android App" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android App" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="AndroidTestRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Android Instrumented Tests" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android Instrumented Tests" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="AntRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Ant Target" pluginName="Ant" pluginId="AntSupport" />
+                      <FeaturePluginData displayName="Ant Target" pluginName="Ant" pluginId="AntSupport" bundled="true" />
                     </value>
                   </entry>
                   <entry key="Application">
@@ -60,6 +60,11 @@
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
+                    </value>
+                  </entry>
+                  <entry key="ComposePreviewRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Compose Preview" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CompoundRunConfigurationType">
@@ -99,7 +104,7 @@
                   </entry>
                   <entry key="GradleRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Gradle" pluginName="Gradle" pluginId="com.intellij.gradle" />
+                      <FeaturePluginData displayName="Gradle" pluginName="Gradle" pluginId="com.intellij.gradle" bundled="true" />
                     </value>
                   </entry>
                   <entry key="GrailsRunConfigurationType">
@@ -109,7 +114,7 @@
                   </entry>
                   <entry key="GroovyScriptRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Groovy" pluginName="Groovy" pluginId="org.intellij.groovy" />
+                      <FeaturePluginData displayName="Groovy" pluginName="Groovy" pluginId="org.intellij.groovy" bundled="true" />
                     </value>
                   </entry>
                   <entry key="HttpClient.HttpRequestRunConfigurationType">
@@ -164,7 +169,7 @@
                   </entry>
                   <entry key="JetRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
                     </value>
                   </entry>
                   <entry key="JettyConfiguration">
@@ -179,7 +184,7 @@
                   </entry>
                   <entry key="KotlinStandaloneScriptRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                      <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
                     </value>
                   </entry>
                   <entry key="MavenRunConfiguration">
@@ -334,17 +339,17 @@
                   </entry>
                   <entry key="android">
                     <value>
-                      <FeaturePluginData displayName="Android" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="android-gradle">
                     <value>
-                      <FeaturePluginData displayName="Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="apk">
                     <value>
-                      <FeaturePluginData displayName="APK" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="APK" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ejb">
@@ -359,7 +364,7 @@
                   </entry>
                   <entry key="java-gradle">
                     <value>
-                      <FeaturePluginData displayName="Java-Gradle" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Java-Gradle" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="javaeeApplication">
@@ -374,12 +379,12 @@
                   </entry>
                   <entry key="kotlin-language">
                     <value>
-                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
                     </value>
                   </entry>
                   <entry key="native-android-gradle">
                     <value>
-                      <FeaturePluginData displayName="Native-Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Native-Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="web">
@@ -439,12 +444,17 @@
                   </entry>
                   <entry key="javafx">
                     <value>
-                      <FeaturePluginData displayName="JavaFx application" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" />
+                      <FeaturePluginData displayName="JavaFx application" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" bundled="true" />
                     </value>
                   </entry>
                   <entry key="javafx-preloader">
                     <value>
-                      <FeaturePluginData displayName="JavaFx preloader" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" />
+                      <FeaturePluginData displayName="JavaFx preloader" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="jpackage">
+                    <value>
+                      <FeaturePluginData displayName="Platform specific package" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" bundled="true" />
                     </value>
                   </entry>
                   <entry key="plain">
