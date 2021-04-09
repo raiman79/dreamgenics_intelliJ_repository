@@ -1,0 +1,10 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="CopyReference" />
+  <action id="ShowProjectStructureSettings" />
+  <action id="StringManipulation.ToCamelCase">
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+  </action>
+  <action id="StringManipulation.ToScreamingSnakeCase">
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
+</keymap>

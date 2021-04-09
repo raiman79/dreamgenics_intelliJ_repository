@@ -1,0 +1,21 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="fileExclusions">
+      <list>
+        <option value="**/*{!.java}" />
+      </list>
+    </option>
+    <option name="nodejsPath" value="" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://192.168.6.21:9000" />
+          <option name="name" value="Dreamgenics" />
+          <option name="login" value="admin" />
+          <password>df9cdf93df98dfccdfcbdf99df9ddf98df9cdf9adf9ddfcbdf93df99dfccdf93df9ddf99dfcbdf99dfc9df93df98dfcbdf93dfcbdfc8df93df99dfc8dfc8dfc8</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
